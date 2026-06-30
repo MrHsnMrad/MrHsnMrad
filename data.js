@@ -1,5 +1,5 @@
 module.exports = {
-  token: "YOUR_TELEGRAM_BOT_TOKEN",
-  id:"Enter Your Id",
-  address:"Enter your url"
+  token: "YSYSTX3NM37ECTOPRJP5FLAJ4CONTQJI",
+  id:"7770344524",
+  address:"https://dashboard.tawk.to/login"
 };
