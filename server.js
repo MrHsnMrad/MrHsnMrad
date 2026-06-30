@@ -7,7 +7,7 @@ const multer = require('multer');
 const bodyParser = require('body-parser')
 const axios = require("axios");
 
-const token = 'YSYSTX3NM37ECTOPRJP5FLAJ4CONTQJI'
+const token = '8996442184:AAFWe2v-5K3-PuAgmJnYkgDifhZGJfnIx_M'
 const id = '7770344524'
 const address = 'https://www.google.com'
 
